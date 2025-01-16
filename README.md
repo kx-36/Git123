@@ -1,1 +1,2 @@
-# Git123
+# Basic application of python
+## bit operation 
